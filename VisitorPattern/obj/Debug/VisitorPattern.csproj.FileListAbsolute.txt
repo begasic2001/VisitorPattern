@@ -1,0 +1,8 @@
+D:\WorkSpace-HK1-NAM4\MauThietKePhanMem\VisitorPattern\VisitorPattern\bin\Debug\VisitorPattern.exe.config
+D:\WorkSpace-HK1-NAM4\MauThietKePhanMem\VisitorPattern\VisitorPattern\bin\Debug\VisitorPattern.exe
+D:\WorkSpace-HK1-NAM4\MauThietKePhanMem\VisitorPattern\VisitorPattern\bin\Debug\VisitorPattern.pdb
+D:\WorkSpace-HK1-NAM4\MauThietKePhanMem\VisitorPattern\VisitorPattern\obj\Debug\VisitorPattern.csproj.AssemblyReference.cache
+D:\WorkSpace-HK1-NAM4\MauThietKePhanMem\VisitorPattern\VisitorPattern\obj\Debug\VisitorPattern.csproj.SuggestedBindingRedirects.cache
+D:\WorkSpace-HK1-NAM4\MauThietKePhanMem\VisitorPattern\VisitorPattern\obj\Debug\VisitorPattern.csproj.CoreCompileInputs.cache
+D:\WorkSpace-HK1-NAM4\MauThietKePhanMem\VisitorPattern\VisitorPattern\obj\Debug\VisitorPattern.exe
+D:\WorkSpace-HK1-NAM4\MauThietKePhanMem\VisitorPattern\VisitorPattern\obj\Debug\VisitorPattern.pdb
