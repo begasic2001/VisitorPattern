@@ -14,9 +14,7 @@ namespace VisitorPattern
         {
             numberList.Add(new SmallNumber("small-1", 10));
             numberList.Add(new SmallNumber("small-2", 20));
-           
-       
-        numberList.Add(new SmallNumber("small-3", 30));
+            numberList.Add(new SmallNumber("small-3", 30));
             numberList.Add(new BigNumber("big-1", 200));
             numberList.Add(new BigNumber("big-2", 150));
             numberList.Add(new BigNumber("big-3", 70));
