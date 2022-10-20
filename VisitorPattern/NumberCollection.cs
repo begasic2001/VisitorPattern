@@ -19,14 +19,6 @@ namespace VisitorPattern
             numberList.Add(new BigNumber("big-2", 150));
             numberList.Add(new BigNumber("big-3", 70));
         }
-        public void AddNumberToList(Number number)
-        {
-            numberList.Add(number);
-        }
-        public void RemoveNumberFromList(Number number)
-        {
-            numberList.Remove(number);
-        }
         public void DisplayList()
         {
             Console.WriteLine("Current list is as follows:");

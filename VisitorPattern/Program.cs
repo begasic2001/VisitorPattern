@@ -14,12 +14,13 @@ namespace VisitorPattern
             NumberCollection numberCollection = new NumberCollection();
            
             numberCollection.DisplayList();
+            Console.WriteLine("--------------------------");
             IncrementNumberVisitor incrVisitor = new IncrementNumberVisitor();
             
             Console.WriteLine("IncrementNumberVisitor is about to visit the list: ");
            
             numberCollection.Accept(incrVisitor);
-          
+            Console.WriteLine("--------------------------");
             numberCollection.DisplayList();
             Console.ReadLine();
         }

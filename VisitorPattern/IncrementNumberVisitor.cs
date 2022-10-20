@@ -10,7 +10,7 @@ namespace VisitorPattern
     {
         public void VisitSmallNumbers(SmallNumber number)
         {
-            Number currentNumber = number as Number;
+            Number currentNumber = number;
           
             int temp = currentNumber.NumberValue;
            
@@ -19,7 +19,7 @@ namespace VisitorPattern
         }
         public void VisitBigNumbers(BigNumber number)
         {
-            Number currentNumber = number as Number;
+            Number currentNumber = number;
          
             int temp = currentNumber.NumberValue;
             
